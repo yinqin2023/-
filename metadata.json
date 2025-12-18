@@ -1,0 +1,7 @@
+{
+  "name": "Product Scene AI Master",
+  "description": "Transform white-background product images into professional lifestyle scene photos with customizable styles and AI-driven prompt engineering based on product selling points.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
